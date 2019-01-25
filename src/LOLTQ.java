@@ -280,7 +280,6 @@ public class LOLTQ extends javax.swing.JFrame {
         if(q1.isSelected()){ 
             point = (point + 4);
             System.out.println(point);
-            System.out.println("q2");
         }
         else if(q2.isSelected()){
             point = (point + 3);
@@ -309,7 +308,6 @@ public class LOLTQ extends javax.swing.JFrame {
         if(q1.isSelected()){ 
             point = (point + 4);
             System.out.println(point);
-            System.out.println("q3");
         }
         else if(q2.isSelected()){
             point = (point + 3);
@@ -338,7 +336,6 @@ public class LOLTQ extends javax.swing.JFrame {
         if(q1.isSelected()){ 
             point = (point + 4);
             System.out.println(point);
-            System.out.println("q4");
         }
         else if(q2.isSelected()){
             point = (point + 3);
@@ -367,7 +364,6 @@ public class LOLTQ extends javax.swing.JFrame {
         if(q1.isSelected()){ 
             point = (point + 4);
             System.out.println(point);
-            System.out.println("q5");
         }
         else if(q2.isSelected()){
             point = (point + 3);
@@ -438,7 +434,6 @@ public class LOLTQ extends javax.swing.JFrame {
         if(q1.isSelected()){ 
             point = (point + 4);
             System.out.println(point);
-            System.out.println("q1");
         }
         else if(q2.isSelected()){
             point = (point + 3);
